@@ -33,8 +33,7 @@
 
    -  ✍️ Technical Writer ✍️
 
-    In addition to my coding skills, I'm also an experienced technical writer. I transform technical concepts into user-friendly documentation and guides, ensuring that developers and end-users alike can understand and utilize software to its fullest potential. My ability to effectively communicate complex ideas and procedures has been instrumental in enhancing the overall user experience of the applications I've worked on.
-
+In addition to my coding skills, I'm also an experienced technical writer. I transform technical concepts into user-friendly documentation and guides, ensuring that developers and end-users alike can understand and utilize software to its fullest potential. My ability to effectively communicate complex ideas and procedures has been instrumental in enhancing the overall user experience of the applications I've worked on.
   
 - 👀 I’m interested in Data Science, Cybersecurity,FinTech, Web and Mobile development and Cloud Computing.
   
