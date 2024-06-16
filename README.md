@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- As a full-stack developer, I possess strong expertise in Python, Java, C, and JavaScript, enabling me to excel in both backend and frontend development. I am proficient in architecting and implementing efficient solutions to software challenges, ensuring a seamless user experience across the entire application.
+- As a full-stack developer, I have strong expertise in Python, C, and Java, enabling me to excel in both backend development and systems engineering. I am proficient in architecting and implementing efficient solutions to software challenges, ensuring a seamless user experience across the entire application.
 
 - On the backend, I specialize in designing RESTful and GraphQL APIs, optimizing database performance, and ensuring data security. My experience with Java, C, and Python allows me to build robust backend infrastructure that supports scalable and reliable applications. I prioritize delivering high-quality, maintainable code that adheres to best practices and industry standards.
 
@@ -24,7 +24,7 @@
 
 - ✍️ Technical Writer: In addition to my coding skills, I'm an experienced technical writer. I transform technical concepts into user-friendly documentation and guides, ensuring that developers and end-users alike can understand and utilize software to its fullest potential. My ability to communicate complex ideas and procedures has been instrumental in enhancing the overall user experience of the applications I've worked on.
 
-- 👀 Interests: Data Science, Cybersecurity, FinTech, Web and Mobile development, and Cloud Computing.
+- 👀 Interests: Data Science, Cybersecurity, FinTech, Web and Mobile development, Cloud Computing, DevOps, and Systems Engineering.
 
 - 💞️ Collaboration: I'm looking to collaborate on Data Science, Web, and Mobile development projects.
 
@@ -48,7 +48,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -63,17 +62,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olooce&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**Olooce/Olooce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### :gear: DevOps & Systems Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Tools & Technologies**: Docker, Kubernetes, Jenkins, Terraform, Ansible, AWS, Azure, GCP, CI/CD Pipelines, Infrastructure as Code (IaC), Monitoring and Logging (Prometheus, Grafana, ELK Stack).
+
+### :bar_chart: Data Science
+
+- **Skills & Tools**: Python, R, Pandas, NumPy, SciKit-Learn, TensorFlow, Keras
