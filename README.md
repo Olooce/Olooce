@@ -68,10 +68,18 @@
       <h3 style="color: #fff;">Contribution Stats</h3>
       <img src="http://github-readme-streak-stats.herokuapp.com?user=Olooce&theme=dark&background=000000" alt="GitHub Streak"/>
     </div>
+ </div>
+</div>
+
+  <div align="center">
+  <div style="display: flex; justify-content: space-betweeen; flex-direction: row; flex-wrap: wrap;">
     <div style="flex: 1; margin: 10px; padding: 20px; background-color: #1a1a1a; border-radius: 6px;">
       <h3 style="color: #fff;">Top   Public Languages</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olooce&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
     </div>
+  </div>
+  </div>
+    
    <!-- <div style="flex: 1; margin: 10px; padding: 20px; background-color: #1a1a1a; border-radius: 6px;">
       <h3 style="color: #fff;">Weekly Coding Time</h3>
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Olooce&layout=compact&theme=vision-friendly-dark" alt="Weekly Coding Time"/>
@@ -80,5 +88,6 @@
       <h3 style="color: #fff;">Repository Count</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=Olooce&show_icons=true&count_private=true&theme=vision-friendly-dark" alt="Repository Count"/>
     </div>  -->
+    
   </div>
 </div>
