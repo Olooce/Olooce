@@ -69,7 +69,7 @@
       <img src="http://github-readme-streak-stats.herokuapp.com?user=Olooce&theme=dark&background=000000" alt="GitHub Streak"/>
     </div>
     <div style="flex: 1; margin: 10px; padding: 20px; background-color: #1a1a1a; border-radius: 6px;">
-      <h3 style="color: #fff;">Top Languages</h3>
+      <h3 style="color: #fff;">Top   Public Languages</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olooce&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
     </div>
    <!-- <div style="flex: 1; margin: 10px; padding: 20px; background-color: #1a1a1a; border-radius: 6px;">
