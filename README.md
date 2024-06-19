@@ -1,14 +1,9 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="GitHub Profile"/>
   <img src="https://komarev.com/ghpvc/?username=ItsWachira&style=flat-square&color=orange" alt="Profile Views"/>
-  <h1>
-    Hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave"/>
-  </h1>
+  <h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave"/></h1>
   <h3>Thanks for taking the time to visit and read my GitHub profile.</h3>
-  <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coding Gif"/>
-  </div>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coding Gif"/>
   <h3>💡 Plan. Prioritize. Order.</h3>
 </div>
 
@@ -16,26 +11,21 @@
 
 ### 👨‍💻 About Me
 
-- As a full-stack developer, I possess strong expertise in Python, Java, C, and JavaScript, enabling me to excel in both backend and frontend development. I am proficient in architecting and implementing efficient solutions to software challenges, ensuring a seamless user experience across the entire application.
+- As a full-stack developer, I specialize in Python, Java, C, and JavaScript, enabling me to excel in both backend and frontend development. I design efficient solutions to software challenges, ensuring a seamless user experience.
 
-- On the backend, I specialize in designing RESTful and GraphQL APIs, optimizing database performance, and ensuring data security. My experience with Java, C, and Python allows me to build robust backend infrastructure that supports scalable and reliable applications. I prioritize delivering high-quality, maintainable code that adheres to best practices and industry standards.
+- **Backend**: I design RESTful and GraphQL APIs, optimize database performance, and prioritize data security using Java, C, and Python.
 
-- In the frontend, I have a solid foundation in building modern web applications using React and Next.js. I leverage these frameworks to create dynamic user interfaces with reusable components and efficient rendering. My expertise in HTML, CSS, and JavaScript within the React and Next.js ecosystem allows me to craft visually appealing and interactive user interfaces.
+- **Frontend**: I build modern web applications with React and Next.js, creating dynamic user interfaces with reusable components and efficient rendering.
 
-- ✍️ Technical Writer: In addition to my coding skills, I'm an experienced technical writer. I transform technical concepts into user-friendly documentation and guides, ensuring that developers and end-users alike can understand and utilize software to its fullest potential. My ability to communicate complex ideas and procedures has been instrumental in enhancing the overall user experience of the applications I've worked on.
+- **Technical Writing**: I transform technical concepts into user-friendly documentation, enhancing user experience and understanding.
 
-- 👀 Interests: Data Science, Cybersecurity, FinTech, Web and Mobile development, and Cloud Computing.
+- **Interests**: Data Science, Cybersecurity, FinTech, Web and Mobile Development, and Cloud Computing.
 
-- 💞️ Collaboration: I'm looking to collaborate on Data Science, Web, and Mobile development projects.
+- **Collaboration**: I'm open to collaborating on Data Science, Web, and Mobile development projects.
 
-- 📩 Connect with me:
-  <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/oloo-stephen-asira/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
+- **Connect with me**: [LinkedIn](https://www.linkedin.com/in/oloo-stephen-asira/) 
 
-- 🏠 Kenya: I love it here.
+- **Location**: Based in Kenya.
 
 ---
 
@@ -57,33 +47,19 @@
 
 ---
 
-### :fire: My Stats
+### :chart_with_upwards_trend: My GitHub Stats
 
+#### Contribution Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Olooce&theme=dark&background=000000)](https://git.io/streak-stats)
 
+#### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olooce&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+#### Detailed Language Stats
 ![Detailed Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Olooce&layout=compact&theme=vision-friendly-dark)
 
-![Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=Olooce&layout=compact&theme=vision-friendly-dark)
+#### Weekly Coding Time
+![Weekly Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=Olooce&layout=compact&theme=vision-friendly-dark)
 
+#### Repository Count
 ![Repository Count](https://github-readme-stats.vercel.app/api?username=Olooce&show_icons=true&count_private=true&theme=vision-friendly-dark)
-
-
-
-
-
-<!--
-**Olooce/Olooce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
