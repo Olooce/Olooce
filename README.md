@@ -80,14 +80,14 @@
   </div>
   </div>
     
-   <!-- <div style="flex: 1; margin: 10px; padding: 20px; background-color: #1a1a1a; border-radius: 6px;">
+  <div style="flex: 1; margin: 10px; padding: 20px; background-color: #1a1a1a; border-radius: 6px;">
       <h3 style="color: #fff;">Weekly Coding Time</h3>
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Olooce&layout=compact&theme=vision-friendly-dark" alt="Weekly Coding Time"/>
     </div>
     <div style="flex: 1; margin: 10px; padding: 20px; background-color: #1a1a1a; border-radius: 6px;">
       <h3 style="color: #fff;">Repository Count</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=Olooce&show_icons=true&count_private=true&theme=vision-friendly-dark" alt="Repository Count"/>
-    </div>  -->
+    </div>  
     
   </div>
 </div>
