@@ -59,7 +59,6 @@
 </div>
 
 ---
-
 ### :chart_with_upwards_trend: My GitHub Stats
 
 <div align="center">
