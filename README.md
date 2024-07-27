@@ -34,7 +34,7 @@
     <strong>Connect with me:</strong> <a href="https://www.linkedin.com/in/oloo-stephen-asira/">LinkedIn</a>
   </p>
   <p align="left">
-    <strong>Location:</strong> Based in Kenya.
+    <strong>Loation:</strong> Based in Kenya.
   </p>
 </div>
 
