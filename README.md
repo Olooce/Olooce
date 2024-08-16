@@ -19,7 +19,7 @@
 
 <div align="left">
   <p align="left">
-    As a full-stack developer, I specialize in Python, Java, C, and JavaScript, enabling me to excel in both backend and frontend development. I design efficient solutions to software challenges, ensuring a seamless user experience.
+    As a full-stack developer, I specialize in Java, C, Python and JavaScript, enabling me to excel in both backend and frontend development. I design efficient solutions to software challenges, ensuring a seamless user experience.
   </p>
   <ul align="left">
     <li><strong>Backend:</strong> I design RESTful and GraphQL APIs, optimize database performance, and prioritize data security using Java, C, and Python.</li>
