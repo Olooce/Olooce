@@ -1,10 +1,18 @@
+Here’s the content with the headings converted to Markdown:
+
+---
+
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="GitHub Profile"/>
   <img src="https://komarev.com/ghpvc/?username=Olooce&style=flat-square&color=orange" alt="Profile Views"/>
-  <h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave"/></h1>
-  <h3>Thanks for taking the time to visit and read my GitHub profile.</h3>
+
+  # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave"/>
+
+  ### Thanks for taking the time to visit and read my GitHub profile.
+
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coding Gif"/>
-  <h3>💡 Plan. Prioritize. Order.</h3>
+
+  ### 💡 Plan. Prioritize. Order.
 </div>
 
 ---
@@ -59,6 +67,7 @@
 </div>
 
 ---
+
 ### :chart_with_upwards_trend: My GitHub Stats
 
 <div align="center">
@@ -68,7 +77,7 @@
       <img src="http://github-readme-streak-stats.herokuapp.com?user=Olooce&theme=dark&background=000000" alt="GitHub Streak"/>
     </div>
     
-  <div style="flex: 1; margin: 10px; padding: 20px; background-color: #1a1a1a; border-radius: 6px;">
+    <div style="flex: 1; margin: 10px; padding: 20px; background-color: #1a1a1a; border-radius: 6px;">
       <h3 style="color: #fff;">Coding Time</h3>
       [![wakatime](https://wakatime.com/badge/user/6e3390ca-e2f0-47c3-887e-f33f6b969adb.svg)](https://wakatime.com/@6e3390ca-e2f0-47c3-887e-f33f6b969adb)
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Olooce&layout=compact&theme=vision-friendly-dark" alt="Weekly Coding Time"/>
