@@ -56,7 +56,7 @@
 
 <div align="center">
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olooce&show_icons=true&locale=en" alt="rating" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Olooce&show_icons=true&locale=en" alt="rating" /></p> 
 
 #### Contribution Stats
 
