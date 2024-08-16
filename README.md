@@ -1,5 +1,3 @@
-Here’s a visually appealing and well-spaced layout, centered for emphasis:
-
 ---
 
 <div align="center">
@@ -18,7 +16,7 @@ Here’s a visually appealing and well-spaced layout, centered for emphasis:
 
 ### About Me
 
-<div align="center">
+<div align="left">
   <p align="left">
     As a full-stack developer, I specialize in Python, Java, C, and JavaScript, enabling me to excel in both backend and frontend development. I design efficient solutions to software challenges, ensuring a seamless user experience.
   </p>
@@ -70,5 +68,3 @@ Here’s a visually appealing and well-spaced layout, centered for emphasis:
 </div>
 
 --- 
-
-This layout ensures everything is centered and well-spaced, creating a clean and visually appealing presentation.
