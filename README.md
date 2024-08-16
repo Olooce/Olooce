@@ -27,7 +27,8 @@
     <li><strong>Technical Writing:</strong> I transform technical concepts into user-friendly documentation, enhancing user experience and understanding.</li>
     <li><strong>Interests:</strong> Data Science, Cybersecurity, FinTech, Web and Mobile Development, and Cloud Computing.</li>
     <li><strong>Collaboration:</strong> I'm open to collaborating on Data Science, Web, and Mobile development projects.</li>
-    <li><strong>Connect with me:</strong> <a href="https://www.linkedin.com/in/oloo-stephen-asira/">LinkedIn</a></li>
+    <li><strong>Connect with me:</strong> <a href="https://www.linkedin.com/in/oloo-stephen-asira/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a></li>
     <li><strong>Location:</strong> Based in Kenya.</li>
   </ul>
 </div>
