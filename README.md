@@ -70,6 +70,7 @@
     
   <div style="flex: 1; margin: 10px; padding: 20px; background-color: #1a1a1a; border-radius: 6px;">
       <h3 style="color: #fff;">Coding Time</h3>
+      [![wakatime](https://wakatime.com/badge/user/6e3390ca-e2f0-47c3-887e-f33f6b969adb.svg)](https://wakatime.com/@6e3390ca-e2f0-47c3-887e-f33f6b969adb)
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Olooce&layout=compact&theme=vision-friendly-dark" alt="Weekly Coding Time"/>
     </div>
   </div>
