@@ -19,7 +19,7 @@
 
 <div align="left">
   <p align="left">
-    As a full-stack developer, I specialize in Java, C, Python and JavaScript, enabling me to excel in both backend and frontend development. I design efficient solutions to software challenges, ensuring a seamless user experience.
+    As a full-stack developer, I specialize in Java, C, Python, and JavaScript, enabling me to excel in both backend and frontend development. I design efficient solutions to software challenges, ensuring a seamless user experience.
   </p>
   <ul align="left">
     <li><strong>Backend:</strong> I design RESTful and GraphQL APIs, optimize database performance, and prioritize data security using Java, C, and Python.</li>
@@ -38,19 +38,9 @@
 ### :hammer_and_wrench: Languages and Tools
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="PostGress" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=java, python, c,react,vite,nodejs,mysql,firebase&perline=5" alt="Skills Icons"/>
+  </a>
 </div>
 
 ---
@@ -72,10 +62,9 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Olooce&layout=compact&theme=vision-friendly-dark" alt="Weekly Coding Time"/>
 
 </div>
+
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
---- 
-
-
+---
