@@ -39,7 +39,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,python,c,react,vite,nodejs,mysql,postgres,spring,undertow,git,github&perline=10" alt="Skills Icons"/>
+    <img src="https://skillicons.dev/icons?i=java,python,c,react,vite,nodejs,mysql,postgres,spring,firebase,git,github&perline=12" alt="Skills Icons"/>
   </a>
 </div>
 
