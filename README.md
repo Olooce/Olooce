@@ -49,7 +49,7 @@
 
 <div align="center">
   
-<p>&nbsp;<img align="center" src="https://bad-apple-github-readme.vercel.app/api?username=Olooce&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=vision-friendly-dark&title_color=00b3ff)" alt="rating" /></p> 
+<p>&nbsp;<img align="center" src="https://bad-apple-github-readme.vercel.app/api?username=Olooce&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=dark&title_color=00b3ff)" alt="rating" /></p> 
 
 #### Contribution Stats
 
