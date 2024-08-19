@@ -19,14 +19,14 @@
 
 <div align="left">
   <p align="left">
-    As a full-stack developer, I specialize in Java, C, Python, and JavaScript, enabling me to excel in both backend and frontend development. I design efficient solutions to software challenges, ensuring a seamless user experience.
+    As a full-stack developer, I work mostly in Java, C, Python, Dart and JavaScript, excelling in both backend and frontend development. I design efficient solutions to software challenges, ensuring a seamless user experience.
   </p>
   <ul align="left">
-    <li><strong>Backend:</strong> I design RESTful and GraphQL APIs, optimize database performance, and prioritize data security using Java, C, and Python.</li>
-    <li><strong>Frontend:</strong> I build modern web applications with React and Next.js, creating dynamic user interfaces with reusable components and efficient rendering.</li>
+    <li><strong>Backend:</strong> I design RESTful and GraphQL APIs, optimize database performance, and prioritize data security.</li>
+    <li><strong>Frontend:</strong> I build modern web applications with React and Next.js, creating dynamic user interfaces with reusable components and efficient rendering. I do my mobile and desktop applications in Dart using the Flutter Framework. </li>
     <li><strong>Technical Writing:</strong> I transform technical concepts into user-friendly documentation, enhancing user experience and understanding.</li>
-    <li><strong>Interests:</strong> Data Science, Cybersecurity, FinTech, Web and Mobile Development, and Cloud Computing.</li>
-    <li><strong>Collaboration:</strong> I'm open to collaborating on Data Science, Web, and Mobile development projects.</li>
+    <li><strong>Interests:</strong> Data Science, Cybersecurity, FinTech, Web, Mobile & Desktop Development, and Cloud Computing.</li>
+    <li><strong>Collaboration:</strong> I'm open to collaborating on any project.</li>
     <li><strong>Connect with me:</strong> <a href="https://www.linkedin.com/in/oloo-stephen-asira/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a></li>
     <li><strong>Location:</strong> Based in Kenya.</li>
@@ -39,7 +39,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,python,c,react,vite,nodejs,mysql,postgres,spring,firebase,git,github&perline=12" alt="Skills Icons"/>
+    <img src="https://skillicons.dev/icons?i=java,python,c,dart,flutter,react,vite,nodejs,mysql,postgres,spring,firebase,git,github&perline=12" alt="Skills Icons"/>
   </a>
 </div>
 
