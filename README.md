@@ -19,7 +19,7 @@
 
 <div align="left">
   <p align="left">
-    As a full-stack developer, I work mostly in Java, C, Python, Dart and JavaScript, excelling in both backend and frontend development. I design efficient solutions to software challenges, ensuring a seamless user experience.
+ I work mostly in Java, C, Python, Dart and JavaScript, excelling in both backend and frontend development designng customized solutions.
   </p>
   <ul align="left">
     <li><strong>Backend:</strong> I design RESTful and GraphQL APIs, optimize database performance, and prioritize data security.</li>
