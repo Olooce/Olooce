@@ -19,10 +19,10 @@
 
 <div align="left">
   <p align="left">
- I work mostly in Java, C, Python, Dart and JavaScript, excelling in both backend and frontend development designng customized solutions.
+ I work mostly in Java, C, Python, Dart and JavaScript, excelling in both backend and frontend development desining and building customized software solutions.
   </p>
   <ul align="left">
-    <li><strong>Backend:</strong> I design APIs, optimize database performance, and prioritize data security.</li>
+    <li><strong>Backend:</strong> I design APIs, optimize database performance, and prioritize performance and data security.</li>
     <li><strong>Frontend:</strong> I build modern web applications with React, creating dynamic user interfaces with reusable components and efficient rendering. I do my mobile and desktop applications in Dart using the Flutter Framework. </li>
     <li><strong>Technical Writing:</strong> I transform technical concepts into user-friendly documentation, enhancing user experience and understanding.</li>
     <li><strong>Interests:</strong> Data Science, Cybersecurity, FinTech, Web, Mobile & Desktop Development, and Cloud Computing.</li>
