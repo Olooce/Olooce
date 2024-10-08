@@ -19,7 +19,7 @@
 
 <div align="left">
   <p align="left">
- I work mostly in Java, C, Python, Dart and JavaScript,in both backend and frontend development designing and building customized software solutions.
+ Entry-level Software Engineer, working mostly in Java, C, Python, Dart and JavaScript,in both backend and frontend development designing and building customized software solutions.
   </p>
   <ul align="left">
     <li><strong>Backend:</strong> I design APIs, optimize database performance, and prioritize performance and data security.</li>
