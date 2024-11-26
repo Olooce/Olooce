@@ -32,6 +32,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a></li>
     <li><strong>Location:</strong> Based in Kenya.</li>
   </ul>
+
+  <p align="left">
+  If my repo is public... well, it’s probably not the *good* stuff. 😜
+</p>
+
 </div>
 
 ---
