@@ -11,7 +11,7 @@
 
 ### **Plan. Prioritize. Order.**
 
- <p align="left">
+ <p align="center">
   If my repo is public... well, it’s probably not the *good* stuff. 😜
 </p>
 
