@@ -11,8 +11,9 @@
 
 ### **Plan. Prioritize. Order.**
 
- <p align="center">
-  If my repo is public... well, it’s probably not the *good* stuff. 😜
+<p align="center">
+  <em><i>If my repo is public... well, it’s probably not the <strong>good</strong> stuff.i></em
+  <em><i>😜</i></em>
 </p>
 
 </div>
