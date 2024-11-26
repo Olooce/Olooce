@@ -18,9 +18,10 @@
 ### About Me
 
 <div align="left">
-  <p align="left">
- Entry-level Systems Software Engineer, working mostly in Java, C, Python, Dart and JavaScript,in both backend and frontend development designing and building customized software solutions.
-  </p>
+ <p align="left">
+  Entry-level Systems Software Engineer specializing in building customized <strong>information systems, ERPs, CRMs</strong>, and <strong>payment and accounting systems integrations</strong>. I work extensively in <strong>Java, C, GO, Dart, and JavaScript</strong> for both backend and frontend development, designing and building scalable software solutions that streamline business processes, enhance data management, and ensure secure financial transactions.
+</p>
+
   <ul align="left">
     <li><strong>Backend:</strong> I design APIs, optimize database performance, and prioritize performance and data security.</li>
     <li><strong>Frontend:</strong> I build modern web applications with React, creating dynamic user interfaces with reusable components and efficient rendering. I do my mobile and desktop applications in Dart using the Flutter Framework. </li>
