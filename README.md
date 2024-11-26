@@ -11,6 +11,10 @@
 
 ### **Plan. Prioritize. Order.**
 
+ <p align="left">
+  If my repo is public... well, it’s probably not the *good* stuff. 😜
+</p>
+
 </div>
 
 ---
@@ -33,11 +37,7 @@
     <li><strong>Location:</strong> Based in Kenya.</li>
   </ul>
 
-  <p align="left">
-  If my repo is public... well, it’s probably not the *good* stuff. 😜
-</p>
-
-</div>
+ </div>
 
 ---
 
