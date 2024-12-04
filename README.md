@@ -23,7 +23,7 @@
 
 <div align="left">
  <p align="left">
-  Entry-level Systems Software Engineer specializing in building customized <strong>information systems, ERPs, CRMs</strong>, and <strong>payment and accounting systems integrations</strong>. I work extensively in <strong>Java, C, GO, Dart, and JavaScript</strong> for both backend and frontend development, designing and building scalable software solutions that streamline business processes, enhance data management, and ensure secure financial transactions.
+  Entry-level Systems Software Engineer working extensively in <strong>Java, C, GO, Dart, and JavaScript</strong> for both backend and frontend development.
 </p>
 
   <ul align="left">
