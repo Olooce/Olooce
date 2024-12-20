@@ -59,7 +59,7 @@
 
 #### Contribution Stats
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Olooce&theme=dark&background=000000" alt="GitHub Streak"/>
+<img src= "https://streak-stats.demolab.com/?user=Olooce" alt="GitHub Streak"/>
 
 #### Coding Time
 
