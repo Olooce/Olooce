@@ -59,7 +59,7 @@
 
 #### Contribution Stats
 
-<img src= "https://streak-stats.demolab.com/?user=Olooce" alt="GitHub Streak"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Olooce)](https://git.io/streak-stats)
 
 #### Coding Time
 
