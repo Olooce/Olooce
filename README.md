@@ -20,7 +20,7 @@
 
 <div align="left">
  <p align="left">
-  Entry-level Software Engineer working extensively in <strong>Java, C, GO, Dart, and JavaScript</strong> for both backend and frontend development.
+Entry-Level Software Engineer with experience developing full-stack solutions for information systems from the ground up and creating seamless integrations. I primarily work with Java but also have experience with other major programming languages..
 </p>
 
   <ul align="left">
