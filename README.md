@@ -20,7 +20,7 @@
 
 <div align="left">
  <p align="left">
-  Entry-level Systems Software Engineer working extensively in <strong>Java, C, GO, Dart, and JavaScript</strong> for both backend and frontend development.
+  Entry-level Software Engineer working extensively in <strong>Java, C, GO, Dart, and JavaScript</strong> for both backend and frontend development.
 </p>
 
   <ul align="left">
