@@ -29,7 +29,7 @@ Entry-Level Software Engineer with experience developing full-stack solutions fo
     <li><strong>Technical Writing:</strong> I transform technical concepts into user-friendly documentation, enhancing user experience and understanding.</li>
     <li><strong>Interests:</strong> Data Science, Cybersecurity, FinTech, Web, Mobile & Desktop Development, and Cloud Computing.</li>
     <li><strong>Collaboration:</strong> I'm open to collaborating on any project.</li>
-    <li><strong>Connect with me:</strong> <a href="https://www.linkedin.com/in/oloo-stephen-asira/">
+    <li><strong>Connect with me:</strong> <a href="https://www.linkedin.com/in/oloo-stephen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a></li>
     <li><strong>Location:</strong> Based in Kenya.</li>
   </ul>
