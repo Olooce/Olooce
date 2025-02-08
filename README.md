@@ -20,7 +20,7 @@
 
 <div align="left">
  <p align="left">
-Entry-Level Software Engineer with experience developing full-stack solutions for information systems from the ground up and creating seamless integrations. I primarily work with Java but also have experience with other major programming languages..
+Junior Software Engineer with experience developing full-stack solutions for information systems from the ground up and creating seamless integrations. I primarily work with Java but also have experience with other major programming languages..
 </p>
 
   <ul align="left">
