@@ -7,7 +7,7 @@
 
 ### Thanks for taking time to visit and read my GitHub profile.
 
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coding Gif"/>
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="771" height="300" alt="Coding Gif"/>
 
 ### **Plan. Prioritize. Order.**
 
