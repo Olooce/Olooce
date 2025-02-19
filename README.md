@@ -65,7 +65,7 @@ Junior Software Engineer with experience developing full-stack solutions for inf
 
 #### Contribution Stats
 
-<img src="https://streak-stats.demolab.com/?user=Olooce&theme=dark&background=000000)" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Olooce&theme=dark&background=000000)" width="771" alt="GitHub Streak"/>
 
 
 
