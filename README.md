@@ -56,7 +56,7 @@ Junior Software Engineer with experience developing full-stack solutions for inf
 
 #### Contribution Stats
 
-<img src="https://streak-stats.demolab.com/?user=Olooce&theme=dark&background=000000)" alt="GitHub Streak"/>
+<!--<img src="https://streak-stats.demolab.com/?user=Olooce&theme=dark&background=000000)" alt="GitHub Streak"/>-->
 
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=121952433" target="_blank" style="display: block" align="center">
