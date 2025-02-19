@@ -1,13 +1,13 @@
 <div align="center">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Olooce&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+    <img src="https://komarev.com/ghpvc/?username=Olooce&label=Profile%20views&color=0e75b6&style=flat" width="600" alt="views" />
   </p> 
 
   # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave"/>
 
   ### Thanks for taking time to visit and read my GitHub profile.
 
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="771" height="300" alt="Coding Gif"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coding Gif"/>
 
   ### **Plan. Prioritize. Order.**
 </div>
@@ -54,20 +54,20 @@
   
   <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=121952433" target="_blank" style="display: block">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=121952433&image_size=auto&color_scheme=dark" width="771">
-      <img alt="Dashboard stats of @Olooce" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=121952433&image_size=auto&color_scheme=light" width="771">
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=121952433&image_size=auto&color_scheme=dark" width="600">
+      <img alt="Dashboard stats of @Olooce" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=121952433&image_size=auto&color_scheme=light" width="600">
     </picture>
   </a>
 
   ### Contribution Stats
 
-  <img src="https://streak-stats.demolab.com/?user=Olooce&theme=dark&background=000000" width="771" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Olooce&theme=dark&background=000000" width="600" alt="GitHub Streak"/>
 
   ### Coding Time
 
   [![wakatime](https://wakatime.com/badge/user/6e3390ca-e2f0-47c3-887e-f33f6b969adb.svg)](https://wakatime.com/@6e3390ca-e2f0-47c3-887e-f33f6b969adb)
 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Olooce&layout=compact&theme=vision-friendly-dark" width="771" alt="Coding Time"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Olooce&layout=compact&theme=vision-friendly-dark" width="600" alt="Coding Time"/>
 </div>
 
 <p align="center">
