@@ -57,7 +57,16 @@ Junior Software Engineer with experience developing full-stack solutions for inf
 #### Contribution Stats
 
 <img src="https://streak-stats.demolab.com/?user=Olooce&theme=dark&background=000000)" alt="GitHub Streak"/>
-<img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user=Olooce&image_size=auto&color_scheme=dark" width="770" height="auto" />
+
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=121952433" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=121952433&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Olooce" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=121952433&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 #### Coding Time
 
