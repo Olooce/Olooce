@@ -63,11 +63,15 @@
 
   <img src="https://streak-stats.demolab.com/?user=Olooce&theme=dark&background=000000" width="600" alt="GitHub Streak"/>
 
+  <!--
+
   ### Coding Time
 
   [![wakatime](https://wakatime.com/badge/user/6e3390ca-e2f0-47c3-887e-f33f6b969adb.svg)](https://wakatime.com/@6e3390ca-e2f0-47c3-887e-f33f6b969adb)
 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Olooce&layout=compact&theme=vision-friendly-dark" width="600" alt="Coding Time"/>
+
+  -->
 </div>
 
 <p align="center">
