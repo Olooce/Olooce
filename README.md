@@ -14,13 +14,14 @@
 
 ## About Me
 <div align="left">
-  <p>
-    Junior Software Engineer focused on backend systems and 
-    fintech integrations. I work primarily in Java, building 
-    REST APIs, designing database schemas, and integrating 
-    payment and communication services into production 
-    applications.
-  </p>
+<p>
+  Backend-focused Software Engineer building financial 
+  and operational information systems. 
+  I work primarily in Java designing REST APIs, 
+  modelling relational database schemas, and integrating 
+  payment and communication services including MPesa, 
+  SMS, and email.
+</p>
   <ul>
    <li><strong>Backend:</strong> REST API design and 
 architecture, database schema design and optimisation, 
