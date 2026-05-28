@@ -17,7 +17,7 @@
   <p>
     Junior Software Engineer focused on backend systems and 
     fintech integrations. I work primarily in Java, building 
-    REST APIs, designing PostgreSQL schemas, and integrating 
+    REST APIs, designing database schemas, and integrating 
     payment and communication services into production 
     applications.
   </p>
