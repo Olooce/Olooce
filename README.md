@@ -22,9 +22,10 @@
     applications.
   </p>
   <ul>
-    <li><strong>Backend:</strong> REST API design, PostgreSQL 
-    schema optimisation, MPesa and third-party service 
-    integrations.</li>
+   <li><strong>Backend:</strong> REST API design and 
+architecture, database schema design and optimisation, 
+SMTP and SMS service integration, event-driven patterns, and third-party API integrations 
+including MPesa.</li>
     <li><strong>Frontend:</strong> React (regular use), 
     Flutter (supporting capacity).</li>
     <li><strong>Currently:</strong> Building school information 
