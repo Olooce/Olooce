@@ -8,31 +8,36 @@
   ### Thanks for taking time to visit and read my GitHub profile.
 
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coding Gif"/>
-
-  ### **Plan. Prioritize. Order.**
 </div>
 
 ---
 
 ## About Me
-
 <div align="left">
   <p>
-    Junior Software Engineer with experience developing full-stack solutions for information systems from the ground up and creating seamless integrations. I primarily work with Java but also have experience with other major programming languages.
+    Junior Software Engineer focused on backend systems and 
+    fintech integrations. I work primarily in Java, building 
+    REST APIs, designing PostgreSQL schemas, and integrating 
+    payment and communication services into production 
+    applications.
   </p>
-
   <ul>
-    <li><strong>Backend:</strong> I design APIs, optimize database performance, and prioritize performance and data security.</li>
-    <li><strong>Frontend:</strong> I build modern web applications with React, creating dynamic user interfaces with reusable components and efficient rendering. I do my mobile and desktop applications in Dart using the Flutter Framework. </li>
-    <li><strong>Technical Writing:</strong> I transform technical concepts into user-friendly documentation, enhancing user experience and understanding.</li>
-    <li><strong>Interests:</strong> Data Science, Cybersecurity, FinTech, Web, Mobile & Desktop Development, and Cloud Computing.</li>
-    <li><strong>Collaboration:</strong> I'm open to collaborating on any project.</li>
-    <li><strong>Connect with me:</strong> 
+    <li><strong>Backend:</strong> REST API design, PostgreSQL 
+    schema optimisation, MPesa and third-party service 
+    integrations.</li>
+    <li><strong>Frontend:</strong> React (regular use), 
+    Flutter (supporting capacity).</li>
+    <li><strong>Currently:</strong> Building school information 
+    and fee management systems live in production at Scedar 
+    Technologies.</li>
+    <li><strong>Interests:</strong> FinTech, information 
+systems, and financial markets.</li>
+    <li><strong>Connect:</strong> 
       <a href="https://www.linkedin.com/in/oloo-stephen/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
     </li>
-    <li><strong>Location:</strong> Based in Kenya.</li>
+    <li><strong>Location:</strong> Nairobi, Kenya.</li>
   </ul>
 </div>
 
